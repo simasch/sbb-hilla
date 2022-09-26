@@ -1,6 +1,7 @@
-package ch.martinelli.demo.data.service;
+package ch.martinelli.demo.service;
 
-import ch.martinelli.demo.data.entity.SamplePerson;
+import ch.martinelli.demo.entity.SamplePerson;
+import ch.martinelli.demo.repository.SamplePersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

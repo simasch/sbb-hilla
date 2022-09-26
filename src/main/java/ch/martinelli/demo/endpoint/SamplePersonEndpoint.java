@@ -1,7 +1,7 @@
-package ch.martinelli.demo.data.endpoint;
+package ch.martinelli.demo.endpoint;
 
-import ch.martinelli.demo.data.entity.SamplePerson;
-import ch.martinelli.demo.data.service.SamplePersonService;
+import ch.martinelli.demo.entity.SamplePerson;
+import ch.martinelli.demo.service.SamplePersonService;
 import com.vaadin.flow.server.auth.AnonymousAllowed;
 import dev.hilla.Endpoint;
 import dev.hilla.Nonnull;

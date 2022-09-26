@@ -1,6 +1,6 @@
-package ch.martinelli.demo.data.service;
+package ch.martinelli.demo.repository;
 
-import ch.martinelli.demo.data.entity.SamplePerson;
+import ch.martinelli.demo.entity.SamplePerson;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

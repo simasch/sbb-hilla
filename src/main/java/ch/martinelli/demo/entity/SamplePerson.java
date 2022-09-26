@@ -1,4 +1,4 @@
-package ch.martinelli.demo.data.entity;
+package ch.martinelli.demo.entity;
 
 import dev.hilla.Nonnull;
 import org.hibernate.annotations.Type;
